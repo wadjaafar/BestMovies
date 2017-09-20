@@ -7,3 +7,6 @@ The app is built as companion to the course [Developing Android Apps - Udacity](
 The app uses [The Movie Database (TMDb)](https://www.themoviedb.org/) api.
 
 ## Screens
+![alt tag](https://i.imgur.com/NE0nOkD.png)
+![alt tag](https://i.imgur.com/Wj2bJUZ.png)
+![alt tag](https://i.imgur.com/1fKRPhZ.png)
